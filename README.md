@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hey, I'm Kent 👋
 
-<!--
-**devchollo/devchollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building things that work and don’t annoy users (most of the time).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js`  
+`PHP` `WordPress` `Python`  
+`HTML` `CSS` `Tailwind` `Bootstrap`  
+`MySQL` `MongoDB`  
+`Git` `Docker` `Linux`
+
+---
+
+### 🚧 What I'm usually doing
+- Fixing stuff that *should* have worked
+- Modifying live websites without breaking production (hopefully)
+- Turning “small changes” into interesting problems
+- Learning better ways to do things I already thought I knew
+
+---
+
+### 📊 GitHub stats
+![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchollo&show_icons=true&hide_title=true)
+
+---
+
+### 🌐 Around the web
+- Portfolio → https://ksevillejo.com  
+- Email → devchollo@gmail.com  
+
+---
+
+<sub>Powered by coffee, Stack Overflow, and questionable confidence.</sub>
