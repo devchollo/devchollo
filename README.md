@@ -22,7 +22,7 @@ Building things that work and don’t annoy users (most of the time).
 ---
 
 ### 📊 GitHub stats
-![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchollo&show_icons=true&hide_title=true)
+![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchollo&show&icons=true&hide_title=true)
 
 ---
 
