@@ -21,8 +21,10 @@ Building things that work and don’t annoy users (most of the time).
 
 ---
 
-### 📊 GitHub stats
-![Kent's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchollo&show&icons=true&hide_title=true)
+### 🚀 Featured Projects
+- [Portfolio Website](https://ksevillejo.com) – Personal website & projects  
+- [Fatima Palagtiw - Personal Website](https://fatimapalagtiw.site) – A mix of Personal Website + Portfolio + Ecommerce  
+- [WorkToolsHub](https://worktoolshub.info) – Professional Internal and Public Tools with AI capabilities
 
 ---
 
