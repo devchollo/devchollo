@@ -22,9 +22,8 @@ Building things that work and don’t annoy users (most of the time).
 ---
 
 ### 🚀 Featured Projects
-- [Portfolio Website](https://ksevillejo.com) – Personal website & projects  
-- [Fatima Palagtiw - Personal Website](https://fatimapalagtiw.site) – A mix of Personal Website + Portfolio + Ecommerce  
-- [WorkToolsHub](https://worktoolshub.info) – Professional Internal and Public Tools with AI capabilities
+- [Portfolio Website](https://ksevillejo.com) – Portfolio
+- [WorkToolsHub](https://worktoolshub.info) – Web Primitives & AI RAG workspace
 
 ---
 
